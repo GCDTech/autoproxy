@@ -1,2 +1,2 @@
-*.independent.ie
-*.gcdtech.com
+*.example.com
+*.otherdomian.com

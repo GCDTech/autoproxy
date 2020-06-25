@@ -1,0 +1,2 @@
+*.independent.ie
+*.gcdtech.com
